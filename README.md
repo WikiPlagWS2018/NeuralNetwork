@@ -6,7 +6,7 @@ Our target is to identify which Pair is plagiarism. Therefore we use a Neural Ne
   
 ### Data
 Data.txt include 120 plagiarism Pairs and 308 Pairs which were not.  
-Drain: 1/3  
+DTrain: 1/3  
 DVal: 1/3  
 DTest: 1/3  
   
