@@ -1,0 +1,4 @@
+Grundsätzlich ist künstliche Intelligenz der Versuch, menschenähnliche Entscheidungsstrukturen in einem ungewissen Umfeld zu modellieren. Daher einen Computer so zu programmieren, dass er selbständig Probleme lösen kann. Häufig wird jedoch auch eine nachgeahmte Intelligenz gemeint, wobei einfache Algorithmen „intelligentes Verhalten“ simulieren. In der Projektgruppe KIMAS (Künstliche Intelligenz in Multi-Agenten-Systemen)
+
+Source:
+(https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz, „Im Allgemeinen bezeichnet künstliche Intelligenz den Versuch, menschenähnliche Entscheidungsstrukturen in einem nichteindeutigen Umfeld nachzubilden, d. h., einen Computer so zu bauen oder zu programmieren, dass er eigenständig Probleme bearbeiten kann. Oftmals wird damit aber auch eine nachgeahmte Intelligenz bezeichnet, wobei durch meist einfache Algorithmen ein „intelligentes Verhalten“ simuliert werden soll, etwa bei Computerspielen. “)
